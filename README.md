@@ -100,9 +100,24 @@ The following images are available:
 |Warning|<a href="PNG/Warning.png"><img src="PNG/Warning.png" height="25"/></a>|<a href="SVG/Warning.svg"><img src="SVG/Warning.svg" height="25"/></a>|
 |Workspace|<a href="PNG/Workspace.png"><img src="PNG/Workspace.png" height="25"/></a>|<a href="SVG/Workspace.svg"><img src="SVG/Workspace.svg" height="25"/></a>|
 |Whole Number (Power Query data type)|<a href="PNG/Power-Query-Whole-Number.png"><img src="PNG/Power-Query-Whole-Number.png" height="25"/></a>|<a href="SVG/Power-Query-Whole-Number.svg"><img src="SVG/Power-Query-Whole-Number.svg" height="25"/></a>|
+| Data Engineering | | <a href="SVG/Data-Engeneering.svg"><img src="SVG/Data-Engeneering.svg" height="25"/></a> |
+| Data Factory | | <a href="SVG/Data-Factory.svg"><img src="SVG/Data-Factory.svg" height="25"/></a> |
+| Data Science | | <a href="SVG/Data-Science.svg"><img src="SVG/Data-Science.svg" height="25"/></a> |
+| Real Time | | <a href="SVG/Real-Time.svg"><img src="SVG/Real-Time.svg" height="25"/></a> |
+| Data Warehouse | | <a href="SVG/Data-Warehouse.svg"><img src="SVG/Data-Warehouse.svg" height="25"/></a> |
+| Spark Job Definition | | <a href="SVG/Spark-Job-Definition.svg"><img src="SVG/Spark-Job-Definition.svg" height="25"/></a> |
+| Notebook | | <a href="SVG/Notebook.svg"><img src="SVG/Notebook.svg" height="25"/></a> |
+| Lakehouse | | <a href="SVG/Lakehouse.svg"><img src="SVG/Lakehouse.svg" height="25"/></a> |
+| Pipeline | | <a href="SVG/Pipeline.svg"><img src="SVG/Pipeline.svg" height="25"/></a> |
+| Model | | <a href="SVG/Data-Science-Model.svg"><img src="SVG/Data-Science-Model.svg" height="25"/></a> |
+| Experiment | | <a href="SVG/Experiment.svg"><img src="SVG/Experiment.svg" height="25"/></a> |
+| KQL Database | | <a href="SVG/KQL-Database.svg"><img src="SVG/KQL-Database.svg" height="25"/></a> |
+| KQL Queryset | | <a href="SVG/KQL-Queryset.svg"><img src="SVG/KQL-Queryset.svg" height="25"/></a> |
+| Eventstream | | <a href="SVG/Eventstream.svg"><img src="SVG/Eventstream.svg" height="25"/></a> |
+| Warehouse | | <a href="SVG/Warehouse.svg"><img src="SVG/Warehouse.svg" height="25"/></a> |
+| Lakehouse | | <a href="SVG/Lakehouse.svg"><img src="SVG/Lakehouse.svg" height="25"/></a> |
 
 # Contributing
-
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
