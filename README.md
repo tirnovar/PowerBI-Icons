@@ -115,7 +115,6 @@ The following images are available:
 | KQL Queryset | | <a href="SVG/KQL-Queryset.svg"><img src="SVG/KQL-Queryset.svg" height="25"/></a> |
 | Eventstream | | <a href="SVG/Eventstream.svg"><img src="SVG/Eventstream.svg" height="25"/></a> |
 | Warehouse | | <a href="SVG/Warehouse.svg"><img src="SVG/Warehouse.svg" height="25"/></a> |
-| Lakehouse | | <a href="SVG/Lakehouse.svg"><img src="SVG/Lakehouse.svg" height="25"/></a> |
 
 # Contributing
 
